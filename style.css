@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    margin: 0;
+    line-height: 1.15;
+    font-size: 5rem;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+    margin: 0;
+    line-height: 1.15;
+    font-size: 3rem;
+    margin-top: 1rem;
+}
