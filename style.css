@@ -1,6 +1,5 @@
 body {
-    background-color: #ffc0cb;
-    padding: 0 0.5rem;
+    background: #ffc0cb;
     display: flex;
     flex-direction: column;
     justify-content: center;
